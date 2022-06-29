@@ -10,8 +10,8 @@ Script Crack Facebook Versi Free Publik
  $ python -m pip install bs4
  $ python -m pip install rich
  $ python -m pip install pyfiglet
- $ git clone https://github.com/RozhBasXYZ/FBL
- $ cd FBL
+ $ git clone https://github.com/ikiwz-XD/SR26
+ $ cd SR26
  $ git pull
  $ python run.py
  ```
@@ -19,7 +19,7 @@ Script Crack Facebook Versi Free Publik
  ```
   $ cd $HOME
   $ rm -rf FBL
-  $ git clone https://github.com/RozhBasXYZ/FBL
-  $ cd FBL
+  $ git clone https://github.com/ikiwz-XD/SR26
+  $ cd SR26
   $ git pull
   $ python run.py
