@@ -23,3 +23,5 @@ Script Crack Facebook Versi Free Publik
   $ cd SR26
   $ git pull
   $ python run.py
+
+!!
