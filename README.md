@@ -18,7 +18,7 @@ Script Crack Facebook Versi Free Publik
 #### Cara Untuk Update
  ```
   $ cd $HOME
-  $ rm -rf FBL
+  $ rm -rf SR26
   $ git clone https://github.com/ikiwz-XD/SR26
   $ cd SR26
   $ git pull
